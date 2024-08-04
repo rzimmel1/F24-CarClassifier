@@ -16,7 +16,7 @@ This project aims to introduce beginner students to the fundamentals of computer
 | Date | Topic | Deliverable / Task |
 | ---- | ----- | ----------- |
 | Week 1 | Intro to CV and NNs | Introduce computer vision |
-| Week 2 | CNN Architecture | Conceptual understanding of CNNs + simple competition | 
+| Week 2 | Intro to CNN | Teach CNNs + simple competition | 
 | Week 3 | Project Setup | Setup with Kaggle APIs |
 | Week 4 | Data Augmentation | pre-processing |
 | Week 5 | Model Selection and Training | (ResNet-50 model) |
