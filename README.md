@@ -15,11 +15,13 @@ This project aims to introduce beginners with little to no machine learning expe
 
 | Date | Topic | Deliverable / Task |
 | ---- | ----- | ----------- |
-| Week 1 | Intro to CV and NNs | Introduce computer vision |
-| Week 2 | Intro to CNN | Teach CNNs + simple competition | 
-| Week 3 | Project Setup | Setup with Kaggle APIs |
-| Week 4 | Data Augmentation | pre-processing |
-| Week 5 | Model Selection and Training | (ResNet-50 model) |
-| Week 6 | Model Development ||
-| Week 7 | Model Development + Interpreting Performance ||
-| Week 8 | Model Development + Expo Prep. ||
+| 09/22 | Project Overview + Intro to Computer Vision | Introduce computer vision |
+| 09/29 | Intro to CNNs | Teach CNNs + simple competition | 
+| 10/06 | Data Augmentation + Extra CNN Challenge |  |
+| 10/13 | ---- Fall Study Break ---- | None |
+| 10/20 | Image Preprocessing + Setup | Setup with Kaggle APIs |
+| 10/27 | Model Development | Work in groups, apply ResNet-50 |
+| 11/03 | Model Development ||
+| 11/17 | Model Development + Interpreting Performance ||
+| 11/21 | Model Development + Expo Prep. ||
+| 11/21 | Final Project Expo | |
