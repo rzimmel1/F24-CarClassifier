@@ -16,8 +16,8 @@ This project aims to introduce beginners with little to no machine learning expe
 | Date | Topic | Deliverable / Task |
 | ---- | ----- | ----------- |
 | 09/22 | Project Overview + Intro to Computer Vision | Introduce computer vision |
-| 09/29 | Intro to CNNs | Teach CNNs + simple competition | 
-| 10/06 | Data Augmentation + Extra CNN Challenge |  |
+| 09/29 | Intro to CNNs | Teach CNNs | 
+| 10/06 | Data Augmentation + Transfer Learning Practice |  |
 | 10/13 | ---- Fall Study Break ---- | None |
 | 10/20 | Image Preprocessing + Setup | Setup with Kaggle APIs |
 | 10/27 | Model Development | Work in groups, apply ResNet-50 |
