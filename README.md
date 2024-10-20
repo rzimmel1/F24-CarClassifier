@@ -11,8 +11,6 @@ This project aims to introduce beginners with little to no machine learning expe
 
 ## Project Timeline
 
-(add dates later)
-
 | Date | Topic | Deliverable / Task |
 | ---- | ----- | ----------- |
 | 09/22 | Project Overview + Intro to Computer Vision | Introduce computer vision |
